@@ -95,7 +95,7 @@ Z<-get("Z",env.concurrent)
 M<-get("M",env.concurrent)
 Y<-get("Y",env.concurrent)
 
-\donttest{
+\dontrun{
 # consider Fourier basis
 fit<-FMA.concurrent.CV(Z,M,Y,intercept=FALSE,timeinv=c(0,300))
 

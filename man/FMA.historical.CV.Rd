@@ -111,7 +111,7 @@ Z<-get("Z",env.historical)
 M<-get("M",env.historical)
 Y<-get("Y",env.historical)
 
-\donttest{
+\dontrun{
 # consider Fourier basis
 fit<-FMA.historical.CV(Z,M,Y,delta.grid1=3,delta.grid2=3,delta.grid3=3,
     intercept=FALSE,timeinv=c(0,300))

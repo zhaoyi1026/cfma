@@ -1,7 +1,7 @@
 Package: cfma
 Type: Package
 Title: Causal Functional Mediation Analysis
-Version: 1.0
+Version: 1.0.1
 Date: 2018-05-16
 Author: Yi Zhao <zhaoyi1026@gmail.com>, Xi Luo <xi.rossi.luo@gmail.com>, Martin Lindquist <mal2053@gmail.com>, Brian Caffo <bcaffo@gmail.com>
 Maintainer: Yi Zhao <zhaoyi1026@gmail.com>
